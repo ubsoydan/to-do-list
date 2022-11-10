@@ -62,7 +62,7 @@ ul li.checked::before {
 }
 
 .header {
-  background-color: #f78501;
+  background-color: #00adb5;
   padding: 30px 40px;
   color: white;
   text-align: center;
@@ -103,4 +103,8 @@ input {
 
 .button:hover {
   background-color: #bbb;
+}
+
+.linethru {
+  text-decoration: line-through;
 }
